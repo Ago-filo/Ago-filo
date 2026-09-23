@@ -6,6 +6,8 @@ I work across frontend and backend development. At ESTRO TECHNOLOGIES, our team 
 
 Here I share personal projects and experiments, including tools for fantasy football and a local AI knowledge assistant. The professional examples above are described at a general level, without client or project details.
 
+**Portfolio:** [ago-filo.github.io](https://ago-filo.github.io/)
+
 ## Featured project
 
 ### [Fantamuretto](https://github.com/Ago-filo/Fantamuretto)
