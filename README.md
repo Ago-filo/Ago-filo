@@ -1,8 +1,8 @@
 # Hi, I'm Filippo Agosti
 
-**Full-stack developer at [ESTRO TECHNOLOGIES](https://estro.ai/), working in AWS environments and exploring practical AI applications.**
+**Full-stack developer at [ESTRO TECHNOLOGIES](https://estro.ai/), building business software and AI integrations on AWS.**
 
-I work across frontend and backend development. At ESTRO TECHNOLOGIES, our team builds business software on AWS, including management applications and AI features. Examples of our work include systems that answer questions using database information and AI agents that research public information to enrich CRM data. I work with AWS services including RDS, Cognito and Lambda.
+I've built complete management and CRM applications and AI integrations independently, working across frontend, backend and AWS components. I use services including RDS, Cognito and Lambda. Our team's work also includes systems that answer questions using database information and AI agents that research public information to enrich CRM data.
 
 Here I share personal projects and experiments, including tools for fantasy football and a local AI knowledge assistant. The professional examples above are described at a general level, without client or project details.
 
@@ -22,6 +22,8 @@ A browser-based workspace for managing a fantasy football auction: player rankin
 Built with JavaScript, HTML and CSS, with a Node.js server for local use.
 
 [Try Fantamuretto](https://ago-filo.github.io/Fantamuretto/) · [View source](https://github.com/Ago-filo/Fantamuretto)
+
+![Fantamuretto auction dashboard using a neutral demo setup](https://ago-filo.github.io/images/fantamuretto-dashboard.png)
 
 ## Interests
 
