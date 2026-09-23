@@ -4,7 +4,7 @@
 
 I've built complete management and CRM applications and AI integrations independently, working across frontend, backend and AWS components. I use services including RDS, Cognito and Lambda. Our team's work also includes systems that answer questions using database information and AI agents that research public information to enrich CRM data.
 
-I've also created native macOS apps and developed mobile apps published on the Apple App Store and Google Play.
+At ESTRO TECHNOLOGIES, I built a native macOS application for internal company use and developed a customer-facing mobile app published on the Apple App Store and Google Play. Product names and details remain confidential.
 
 Here I share personal projects and experiments, including tools for fantasy football and a local AI knowledge assistant. The professional examples above are described at a general level, without client or project details.
 
