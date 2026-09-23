@@ -1,8 +1,10 @@
 # Hi, I'm Filippo Agosti
 
-**Full-stack developer at [ESTRO TECHNOLOGIES](https://estro.ai/), building business software and AI integrations on AWS.**
+**Full-stack developer at [ESTRO TECHNOLOGIES](https://estro.ai/), building business software and AI integrations on AWS. I also develop apps for macOS and mobile.**
 
 I've built complete management and CRM applications and AI integrations independently, working across frontend, backend and AWS components. I use services including RDS, Cognito and Lambda. Our team's work also includes systems that answer questions using database information and AI agents that research public information to enrich CRM data.
+
+I've also created native macOS apps and developed mobile apps published on the Apple App Store and Google Play.
 
 Here I share personal projects and experiments, including tools for fantasy football and a local AI knowledge assistant. The professional examples above are described at a general level, without client or project details.
 
