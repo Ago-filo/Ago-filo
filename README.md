@@ -21,6 +21,8 @@ A browser-based workspace for managing a fantasy football auction: player rankin
 
 Built with JavaScript, HTML and CSS, with a Node.js server for local use.
 
+[Try Fantamuretto](https://ago-filo.github.io/Fantamuretto/) · [View source](https://github.com/Ago-filo/Fantamuretto)
+
 ## Interests
 
 - Full-stack application development on AWS, including RDS, Cognito and Lambda.
@@ -30,6 +32,17 @@ Built with JavaScript, HTML and CSS, with a Node.js server for local use.
 ## Current experiment: local second brain
 
 I'm testing a personal knowledge workflow with Obsidian notes, AnythingLLM for document search and LM Studio for a local model. Early tests returned answers with document references; I'm now checking how reliably updated notes appear in search. I plan to publish a small, reproducible demo with example notes and evaluation questions.
+
+```mermaid
+flowchart LR
+    A[Notes in Obsidian] -->|Import documents| B[AnythingLLM]
+    Q[Question] --> B
+    B -->|Retrieve relevant passages| C[LM Studio: local model]
+    C -->|Draft answer| B
+    B -->|Answer with source references| U[User]
+```
+
+This diagram shows the current manual document import workflow; automatic syncing is still being tested.
 
 Find my public work in the repositories below.
 
