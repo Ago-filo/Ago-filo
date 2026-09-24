@@ -6,11 +6,19 @@ I've built complete management and CRM applications and AI integrations independ
 
 At ESTRO TECHNOLOGIES, I built a native macOS application for internal company use and developed a customer-facing mobile app published on the Apple App Store and Google Play. Product names and details remain confidential.
 
-Here I share personal projects and experiments, including tools for fantasy football and a local AI knowledge assistant. The professional examples above are described at a general level, without client or project details.
+Here I share personal projects and experiments, including race analysis, fantasy football tools and a local AI knowledge assistant. The professional examples above are described at a general level, without client or project details.
 
 **Portfolio:** [ago-filo.github.io](https://ago-filo.github.io/)
 
-## Featured project
+## Public projects
+
+### [PitWall](https://github.com/Ago-filo/Pitwall) · public MVP in development
+
+An independent race comparison tool for completed Formula 1 Grands Prix from 2023 onward. Select two drivers to explore their result, lap position, pace, tyre stints and pit stops. Missing historical OpenF1 data is called out in the interface.
+
+Built with React, TypeScript, Vite and Cloudflare Workers. The demo is live while I continue to improve the analysis, coverage and interface.
+
+[Try PitWall](https://pitwall.ago-filo-labs.workers.dev) · [View source](https://github.com/Ago-filo/Pitwall)
 
 ### [Fantamuretto](https://github.com/Ago-filo/Fantamuretto)
 
