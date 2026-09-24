@@ -14,11 +14,11 @@ Here I share personal projects and experiments, including race analysis, fantasy
 
 ### [PitWall](https://github.com/Ago-filo/Pitwall) · public MVP in development
 
-An independent race comparison tool for completed Formula 1 Grands Prix from 2023 onward. Select two drivers to explore their result, lap position, pace, tyre stints and pit stops. Missing historical OpenF1 data is called out in the interface.
+An independent race comparison tool for completed Formula 1 Grands Prix from 2023 onward. Select two drivers to explore a lap-by-lap timeline, position, pace, tyre stints and pit stops. The featured comparison remains available when OpenF1 temporarily restricts its public API.
 
 Built with React, TypeScript, Vite and Cloudflare Workers. The demo is live while I continue to improve the analysis, coverage and interface.
 
-[Try PitWall](https://pitwall.ago-filo-labs.workers.dev) · [View source](https://github.com/Ago-filo/Pitwall)
+[Explore Bahrain 2024](https://pitwall.ago-filo-labs.workers.dev/?season=2024&race=9472&drivers=16,55) · [View source](https://github.com/Ago-filo/Pitwall)
 
 ### [Fantamuretto](https://github.com/Ago-filo/Fantamuretto)
 
